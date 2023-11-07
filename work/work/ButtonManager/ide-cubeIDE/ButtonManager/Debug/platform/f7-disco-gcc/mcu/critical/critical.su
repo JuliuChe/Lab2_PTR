@@ -1,0 +1,4 @@
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/platform/f7-disco-gcc/mcu/critical/critical.cpp:36:5:int critical_inIsr()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/platform/f7-disco-gcc/mcu/critical/critical.cpp:7:6:void critical_enter()	8	static,ignoring_inline_asm
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/platform/f7-disco-gcc/mcu/critical/critical.cpp:21:6:void critical_exit()	8	static,ignoring_inline_asm
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/platform/f7-disco-gcc/mcu/critical/critical.cpp:43:6:void critical_setInIsr(bool)	0	static

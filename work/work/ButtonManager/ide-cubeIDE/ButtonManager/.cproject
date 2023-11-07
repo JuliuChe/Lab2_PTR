@@ -188,8 +188,11 @@
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="app"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="event"/>
 						<entry excluding="TouchGFX/generated/simulator|TouchGFX/simulator|TouchGFX/config|TouchGFX/assets|STM32CubeIDE|Middlewares/ST/touchgfx/framework/source/platform|Middlewares/ST/touchgfx/framework/tools|Middlewares/ST/touchgfx/lib|Middlewares/ST/touchgfx/os|Middlewares/Third_Party|gcc|images|MDK-ARM|EWARM|Drivers/BSP|Drivers/STM32F7xx_HAL_Driver|Drivers/CMSIS|Core" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ide-touchgfx-gen"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="mdw"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="platform/f7-disco-gcc"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="startup"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="xf/core"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="xf/port/default"/>
@@ -321,6 +324,7 @@
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="app"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="event"/>
 						<entry excluding="TouchGFX/simulator|TouchGFX/config|TouchGFX/assets|STM32CubeIDE|Middlewares/ST/touchgfx/framework/source/platform|Middlewares/ST/touchgfx/framework/tools|Middlewares/ST/touchgfx/lib|Middlewares/ST/touchgfx/os|Middlewares/Third_Party|gcc|images|MDK-ARM|EWARM|Drivers/STM32F7xx_HAL_Driver|Drivers/CMSIS|Core|Middlewares/ST/touchgfx/framework/source/touchgfx|TouchGFX/App|TouchGFX/target|TouchGFX/gui|Drivers/BSP|Drivers/Components|TouchGFX/generated" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ide-touchgfx-gen"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ide-touchgfx-gen/Drivers/Components"/>
@@ -329,6 +333,8 @@
 						<entry excluding="simulator" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ide-touchgfx-gen/TouchGFX/generated"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ide-touchgfx-gen/TouchGFX/gui"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ide-touchgfx-gen/TouchGFX/target"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="mdw"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="platform/f7-disco-gcc"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="startup"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="xf/core"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="xf/port/default"/>

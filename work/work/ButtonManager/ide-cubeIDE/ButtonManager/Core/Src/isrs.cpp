@@ -1,7 +1,7 @@
+#include <board/ButtonsController.h>
 #include "mcu/mcu.h"
 #include "critical/critical.h"
 #include "main.h"
-//#include "board/buttonscontroller.h"
 
 /**
  * @brief HAL GPIO interrupt callback function
@@ -29,7 +29,7 @@ extern "C" void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 #endif
         // Notify ButtonsController about interrupt
 		// TODO: Uncomment code below
-        //ButtonsController::getInstance().onIrq();
+        ButtonsController::getInstance().onIrq();
         break;
     default:
         break;

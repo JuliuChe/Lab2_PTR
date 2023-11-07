@@ -1,0 +1,7 @@
+c:\doches\ptr-sem5\labopattern\lab2_ptr\work\work\buttonmanager\src\xf\include\xf\event.h:43:13:XFEvent::~XFEvent()	0	static
+c:\doches\ptr-sem5\labopattern\lab2_ptr\work\work\buttonmanager\src\xf\include\xf\event.h:64:18:virtual bool XFEvent::deleteAfterConsume() const	0	static
+c:\doches\ptr-sem5\labopattern\lab2_ptr\work\work\buttonmanager\src\xf\include\xf\customevent.h:37:10:virtual bool XFCustomEvent::deleteAfterConsume() const	0	static
+c:\doches\ptr-sem5\labopattern\lab2_ptr\work\work\buttonmanager\src\xf\include\xf\customevent.h:22:7:XFCustomEvent::~XFCustomEvent()	0	static
+c:\doches\ptr-sem5\labopattern\lab2_ptr\work\work\buttonmanager\src\xf\include\xf\customevent.h:22:7:virtual XFCustomEvent::~XFCustomEvent()	8	static
+c:\doches\ptr-sem5\labopattern\lab2_ptr\work\work\buttonmanager\src\xf\include\xf\event.h:43:13:virtual XFEvent::~XFEvent()	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/xf/core/customevent.cpp:3:1:XFCustomEvent::XFCustomEvent(int, interface::XFReactive*)	4	static

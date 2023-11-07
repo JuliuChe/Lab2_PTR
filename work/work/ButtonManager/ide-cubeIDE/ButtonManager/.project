@@ -28,6 +28,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>app</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/src/app</locationURI>
+		</link>
+		<link>
 			<name>event</name>
 			<type>2</type>
 			<locationURI>PARENT-2-PROJECT_LOC/src/event</locationURI>
@@ -41,6 +46,16 @@
 			<name>interface</name>
 			<type>2</type>
 			<locationURI>PARENT-2-PROJECT_LOC/src/interface</locationURI>
+		</link>
+		<link>
+			<name>mdw</name>
+			<type>2</type>
+			<location>C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/mdw</location>
+		</link>
+		<link>
+			<name>platform</name>
+			<type>2</type>
+			<location>C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/src/platform</location>
 		</link>
 		<link>
 			<name>xf</name>

@@ -1,0 +1,15 @@
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:40:18:virtual void touchgfx::Presenter::activate()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:50:18:virtual void touchgfx::Presenter::deactivate()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:55:13:touchgfx::Presenter::~Presenter()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/include/gui/terminal_screen/TerminalPresenter.hpp:29:13:TerminalPresenter::~TerminalPresenter()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:10:6:virtual void TerminalPresenter::activate()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:15:6:virtual void TerminalPresenter::deactivate()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:55:13:virtual touchgfx::Presenter::~Presenter()	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/include/gui/terminal_screen/TerminalPresenter.hpp:29:13:virtual TerminalPresenter::~TerminalPresenter()	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:30:6:virtual void TerminalPresenter::notifyLogTextChanged(const string&)	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:35:6:virtual void TerminalPresenter::notifyClearLogMessages()	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/include/gui/terminal_screen/TerminalPresenter.hpp:29:13:virtual void* TerminalPresenter::_ZThn4_N17TerminalPresenterD1Ev()	0	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/include/gui/terminal_screen/TerminalPresenter.hpp:29:13:virtual void* TerminalPresenter::_ZThn4_N17TerminalPresenterD0Ev()	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:4:1:TerminalPresenter::TerminalPresenter(TerminalView&)	4	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:20:6:void TerminalPresenter::clearLogMessages()	8	static
+C:/DocHES/Ptr-Sem5/LaboPattern/Lab2_PTR/work/work/ButtonManager/ide-touchgfx-gen/TouchGFX/gui/src/terminal_screen/terminalPresenter.cpp:25:6:void TerminalPresenter::onButtonClearLogTextClicked()	8	static
